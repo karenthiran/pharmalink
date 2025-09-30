@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "809298432421",
+    "project_id": "pharmalink-f2697",
+    "storage_bucket": "pharmalink-f2697.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809298432421:android:d936ea59df6c7c2679d84c",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9mpX0Tb0NqAiVlWSJErqSx4r5cmm_5LY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
